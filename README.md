@@ -2,7 +2,10 @@
 
 **Overview**
 
-This dataset contains information about student performance in exams, including scores in math, reading, and writing, as well as various demographic and background features. The dataset can be utilized to analyze factors influencing student performance and to develop predictive models for academic outcomes.
+This dataset contains information about student performance in exams, including scores in math, reading, and writing, as well as various demographic and background features. The dataset can be utilized to analyze factors influencing student performance and to develop predictive models for academic outcomes. Finally, I created a dashboard to visualize my findings.
+
+![Screenshot 2024-03-12 114842](https://github.com/CMachogu/Student-Performance-in-Exams/assets/159150903/eb992bfb-befd-4e73-969c-7c29a5d59652)
+
 
 **Data Source**
 
